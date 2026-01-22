@@ -2,6 +2,10 @@ Contains the Add-ons that are used.
 Use Curse Forge to install the addons.
 The names can be copied-pasted.
 
+- = Install
+V = Temporary install
+X = Temporary removal
+
 Install the following Add-ons
 - All The Things
 - Achievements Back Button
@@ -14,13 +18,14 @@ Install the following Add-ons
 - Bazooka
 - Bettable's Logout Alarm = Manually add ", 120000" to first line of "logoutalarm.toc"
 - Better Addon List = Manually add ", 120000" to first line of "BetterAddonList.toc"
-- Better Bags
+V Baganator
+V Syndicator
+X Better Bags
 X BetterBags - AIO (All-In-One)
 X Better Bags - Archaeology
 X Better Bags - Openable Items
 X Better Bags - Scrap = Manually add ", 120000" to first line of "BetterBags_Scrap.toc"
 X Better Bags - Secrets
-X Better Bags - Teleports = Manually add ", 120000" to first line of "BetterBags-Teleports.toc"
 - BlizzMove
 - BlizzMove Plugin - Manuscripts Journal
 - BlizzMove Plugin - QuestTracker
@@ -110,4 +115,3 @@ X Better Bags - Teleports = Manually add ", 120000" to first line of "BetterBags
 - WorldQuestTab: Modifer Hide = Manually add ", 120000" to first line of "WorldQuestTab_ModiferHide.toc"
 - World Quest Tracker
 - WoW-Pro Guides
-
