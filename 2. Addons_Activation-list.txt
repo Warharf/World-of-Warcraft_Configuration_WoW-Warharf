@@ -1,0 +1,132 @@
+What Add-ons should be activated (and when)
+✓ = Always Enable
+❌ = Always Disable
+⚙ = Only Enable during first configuration
+
+✓ All The Things
+✓ Achievements Back Button
+✓ BadBoy
+✓ BadBoy_CCleaner
+✓ BadBoy_Guilded
+✓ BadBoy_History
+✓ BadBoy_Ignore
+✓ Baganator
+✓ Bazooka
+✓ Bazooka Options
+✓ Bettable's Logout Alarm
+✓ Better Addon List
+✓ Better Bags
+✓ BetterBags - AIO (All-In-One)
+✓ Better Bags - Archaeology
+✓ Better Bags - Openable Items
+✓ Better Bags - Scrap
+✓ Better Bags - Secrets
+✓ Better Bags - Teleports
+✓ BlizzMove
+❌ BlizzMove - Debugging plugin
+✓ BlizzMove Plugin - Manuscripts Journal
+✓ BlizzMove Plugin - QuestTracker
+✓ BlizzMove Plugin - Soulshape Journal
+✓ BlizzMove Plugin - Venture Plan
+✓ Broker: Everything
+✓ BugGrabber
+✓ BugSack
+✓ ButtonForge
+✓ BuyEmAll
+✓ Can I Mog It?
+✓ Chattynator
+✓ Chattynator x Listener Bridge
+✓ City Guide
+✓ ColorPickerPlus
+✓ Dejunk
+✓ Dialogue UI
+✓ Elephant
+✓ Equip Recommended Gear
+✓ ExtraQuestButton
+✓ GatherMate2
+✓ GatherMate2<Gas Clouds>
+✓ GatherMate2: Storage for Dragonflight
+✓ GatherMate2: Storage for The War Within
+✓ GatherMate2Data
+✓ Handy Minimap Arrow
+✓ HandyNotes
+✓ HandyNotes - Phase Diving Conduit
+✓ HandyNotes - RumorMap
+✓ HandyNotes: Battle for Azeroth Treasures
+✓ HandyNotes: Burning Crusade
+✓ HandyNotes: Dragonflight Treasures
+✓ HandyNotes: DungeonLocations
+✓ HandyNotes: Legion Mage Portals
+✓ HandyNotes: Legion Treasures and Rares
+✓ HandyNotes: MapNotes
+✓ HandyNotes: MapNotesInstancesOnly
+✓ HandyNotes: Midnight Treasures and Rares
+✓ HandyNotes: Mists of Pandaria (Treasures)
+✓ HandyNotes: Shadowlands Treasures
+✓ HandyNotes: Silvermoon
+✓ HandyNotes: The War Within Treasures and Rares
+✓ HandyNotes: Warlords of Draenor (Treasures)
+✓ HandyNotes: Wrath of the Lich King
+✓ HandyNotes_DragonGlyphs
+✓ HandyNotes_FerryNetwork
+✓ HandyNotes_NaxxFrozenRunes
+✓ HandyNotes_Valdrakken
+✓ HandyNotes_AncientShrines
+✓ HandyNotes_Jetpacks
+✓ HandyNotes_ScarabCoffers
+✓ HidingBar
+⚙ HidingBar Options
+✓ InFlight
+✓ ItemLevelDisplay
+✓ ItemVersion
+❌ ItemLevelDisplay-Blizzard
+✓ Krowi's Extended Vendor UI
+✓ LargerMacroIconSelection
+✓ LargerMacroIconSelectionData
+✓ Leatrix Maps
+✓ Leatrix Plus
+✓ Listener
+✓ Manuscripts Journal
+✓ MobInfo2 Retail
+✓ Molinari
+✓ Mount Journal Enhanced
+✓ New Openables - Continued
+✓ NoAutoClose
+✓ Pawn
+✓ Platynator
+✓ Requires Level X
+✓ Routes
+✓ Routes Import/Export
+✓ ServerRestartSound
+✓ SilverDragon - Rare Scanner
+✓ SilverDragon: History
+✓ SilverDragon: Map Overlays
+✓ SilverDragon: Range Extender
+✓ Soulshape Journal
+✓ Stat Priority
+✓ Syndicator
+✓ TomCat's Tours
+✓ TomPoints TomTom/MapPin Linker
+✓ TomTom
+✓ Total RP 3
+✓ Total RP 3: Data
+✓ Total RP 3: Extended features
+✓ Total RP 3: Extended Import/Export
+✓ Total RP 3: Extended tools
+✓ TradeSkillMaster
+✓ TradeSkillMaster_AppHelper
+✓ Unlimited Map Pin Distance
+✓ VendorBuy
+✓ Venture Plan
+✓ VenturePlan MoreFollowers
+✓ Waypoint UI
+✓ Where To Gather
+✓ World Quest Tab
+✓ WorldQuestTab: Modifier Hide by fuba's
+✓ World Quest Tracker
+✓ WoW-Pro
+✓ WoW-Pro Achievements
+✓ WoW-Pro Dailies
+✓ WoW-Pro Leveling
+✓ WoW-Pro Profession
+✓ WoW-Pro WorldEvents

@@ -1,0 +1,14 @@
+All the Spells (used without a macro) that are added to the bars.
+
+
+====  General  ====
+Warbands = Bar 6 > Button 5
+
+====  Warband Collections  ====
+
+---- Mounts ----
+Trader's Gilded Brutosaur = Bar 2 > Row 6 > Button 1
+
+
+====  Druid  ====
+Steady Shot = Bar 1 > Button 2

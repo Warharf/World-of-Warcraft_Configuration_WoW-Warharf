@@ -1,0 +1,34 @@
+All the commands that are used to create the Button Forge bars.
+Note: Each code block can be run from a temporary macro.
+
+/bufo -createbar Bar1
+/bufo -bar Bar1 -rows 2 -cols 24
+/bufo -bar Bar1 -coords 1164 425 -gap 13.5 -scale 0.40
+/bufo -bar Bar1 -hidevehicle on
+/bufo -bar Bar1 -emptybuttons off
+
+/bufo -createbar Bar2
+/bufo -bar Bar2 -rows 12 -cols 3
+/bufo -bar Bar2 -coords 1084 376 -gap 13.5 -scale 0.40
+/bufo -bar Bar2 -hidevehicle on
+/bufo -bar Bar2 -emptybuttons off
+
+/bufo -createbar Bar3
+/bufo -bar Bar3 -rows 12 -cols 5
+/bufo -bar Bar3 -coords 871 376 -gap 13.5 -scale 0.40
+/bufo -bar Bar3 -hidevehicle on
+/bufo -bar Bar3 -emptybuttons off
+
+/bufo -createbar Bar4
+/bufo -bar Bar4 -rows 12 -cols 5
+/bufo -bar Bar4 -coords 661 376 -gap 13.5 -scale 0.40
+/bufo -bar Bar4 -hidevehicle on
+/bufo -bar Bar4 -emptybuttons off
+
+/bufo -createbar Bar5
+/bufo -bar Bar5 -rows 2 -cols 24
+/bufo -bar Bar5 -coords 1746 223 -gap 13.5 -scale 0.28
+/bufo -bar Bar5 -hidevehicle on
+/bufo -bar Bar5 -emptybuttons off
+
+/bufo -saveprofile WoW_Warharf

@@ -1,0 +1,98 @@
+All the Class Macros for "WoW Warharf" and the locations on the bars
+
+
+====  Form  ====
+NAME = Form
+ICON = Automatic
+LOCATION = Bar 1 > Button 12
+CODE =
+#showtooltip
+/cancelform [noform:0]
+/use [spec:1,nomod][mod:ctrl]Moonkin Form
+/use [spec:2,nomod][mod:shift]Cat Form
+/use [spec:3,nomod][mod:alt]Bear Form
+/use [spec:4,nomod][mod:ctrlshiftalt]Treant Form
+
+
+====  Group  ====
+DESCRIPTION = Group and general Gameplay: Jar of Sunwarmed Sand (Ctrl-Alt), Overtuned Corgi Goggles (Alt), Whole-Body Shrinka' (Ctrl-Shift-Alt), Mark of the Wild
+NAME = Group
+ICON = Automatic
+LOCATION = Bar 2 > Column 1 > Button 3
+CODE = 
+#showtooltip
+/use [mod:ctrlshiftalt]Whole-Body Shrinka';[mod:shiftalt]Eyes For You Only;[mod:ctrlalt]Jar of Sunwarmed Sand;[mod:alt]Overtuned Corgi Goggles;[@mouseover][@player]Mark of the Wild
+
+====  Help  ====
+DESCRIPTION = 
+NAME = Help
+ICON = Automatic
+LOCATION = Bar 5, Button 7
+CODE = 
+#showtooltip
+/use [mod:alt]Rebirth;[mod:shift,@focus,dead][mod:ctrl,@mouseover,dead][dead]Revive;[mod:shift,@focus,help][mod:ctrl,@mouseover,help][]Remove Corruption
+
+
+====  M16  ====
+DESCRIPTION = 
+NAME = Regrowth
+ICON = Automatic
+LOCATION = 
+CODE = 
+#showtooltip
+/use [Mod:shift,@focus,help][mod:ctrl,@mouseover,help][mod:alt,@player][help][@player]Regrowth
+
+
+====  M17  ====
+DESCRIPTION = 
+NAME = Rejuvenation
+ICON = Automatic
+LOCATION = 
+CODE = 
+#showtooltip
+/use [Mod:shift,@focus,help][mod:ctrl,@mouseover,help][mod:alt,@player][help][@player]Rejuvenation
+
+
+====  M18  ====
+DESCRIPTION = 
+NAME = Wild Growth
+ICON = Automatic
+LOCATION = 
+CODE = 
+#showtooltip
+/use [Mod:shift,@focus,help][mod:ctrl,@mouseover,help][mod:alt,@player][help][@player]Wild Growth
+
+
+====  Mount  ====
+NAME = Mount
+ICON = Automatic
+LOCATION = Bar 2 > Row 3 > Button 1
+Code =
+#showtooltip
+/cancelform [mod:ctrlshiftalt]
+/stopmacro [mod:ctrlshiftalt]
+/use [mod:ctrlshift]Grand Expedition Yak;[mod:shift]Prowl;[indoors,noform:2,noswimming]Cat Form;[mod:alt]Switch Flight Style;[form:4,mod]Flap;[noform:4]Moonkin Form;Travel Form
+
+
+====  Prowl  ====
+NAME = Prowl
+ICON = Automatic
+LOCATION = Bar 4 > Row 6 > Button 1
+CODE = 
+#showtooltip
+/use [spec:1,form:2]Moonkin Form
+/use [spec:3,form:2]Bear Form
+/use [spec:4,form:2]Treant Form
+/use [spec:2][nospec:2,form:4/1/5]Prowl
+
+
+====  Sheep  ====
+NAME = Sheep
+ICON = Automatic
+LOCATION = Bar 4 > Row 1 > Button 1
+CODE = 
+#showtooltip
+/focus [@mouseover,exists,nodead,mod:shift][@target,mod:shift]
+/clearfocus [@focus,dead][mod:ctrlshift]
+/use [mod:alt]Mass Entanglement;[@mouseover,harm,mod:ctrl][@focus,harm,nodead][nomod]Entangling Roots
+

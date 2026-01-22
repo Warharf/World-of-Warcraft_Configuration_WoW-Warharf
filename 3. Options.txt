@@ -1,0 +1,509 @@
+All the settings that should be selected in the game Client
+P.S. Make sure that steps 1 and 2 have been executed
+
+====  Gameplay > Controls ====
+
+---- Controls ----
+Sticky Targeting = OF
+Auto Dismount in Flight = ON
+Auto Cancel Away Mode = ON
+Interact on Left Click = ON
+Open Loot Window at Mouse = ON
+Auto Loot = ONLoot Key = None
+Combine Bags = OFF
+Enable Interact Key = ON
+Interact With Target = E
+Interact Key Sound Cue = ON
+
+---- Mouse ----
+Lock Cursor to Window = OFF
+Invert Mouse = OFF
+Mouse Look Speed = 5.5
+Enable Mouse Sensitivity = OFF
+Click-to-Move = OFF
+
+---- Camera ----
+Water Collision = OFF
+Auto Follow Speed = 5.5
+Camera Following Style = Never adjust camera
+
+
+====  Gameplay > Interface  ====
+
+---- Display ----
+In Game Navigation = ON
+Tutorials = OFF
+Outline Mode = Quest Objectives, Mouseover, and Target
+Status Text = Percentage
+Chat Bubbles = ON
+Party Chat Bubbles = ON
+Raid Chat Bubbles = OFF
+Replace Player Frame Portraits = OFF
+Replace My Frame Portrait = OFF
+
+---- Quests ----
+Show Warband Completed Quests = ON
+Show Low-Level Quests = ON
+
+---- Raid Frames ----
+Display Incoming Heals = ON
+Display Power Bars = OFF
+Display Only Healer Power Bars = OFF
+Display Aggro Highlight = ON
+Display Class Colors = OFF
+Display Pets = OFF
+Display Main Tank and Assist = ON
+Show Debuffs = ON
+Bigger Role Debuffs = ON
+Display Only Dispellable Debufs = ON
+Center Big Defensives = ON
+Dispellable Debuff Indicator = Dispellable By Me
+Dispellable Debuff Color = ON
+Display Health Text = Health Percentage
+
+---- Arena Enemy Frames ----
+Display Power Bars = OFF
+Display Only Healer Power Bars = OFF
+Display Class Colors = PFF
+Display Pets = OFF
+Display Health Text = Health Percentage
+
+
+====  Gameplay > Action Bars  ====
+Action Bar 1 = ON
+Action Bar 2 = ON
+Action Bar 3 = ON
+Action Bar 4 = ON
+Action Bar 5 = ON
+Action Bar 6 = ON
+Action Bar 7 = ON
+Action Bar 8 = ON
+Lock Action Bars = ON (SHIFT Key)
+Show Numbers for Cooldowns = ON
+
+
+====  Gameplay > Combat  ====
+Personal Resource Display = OFF
+Self Highlight = Circle and Outline
+Show Silhouette when Obscured = ON
+Target of Target = ON
+Do Not Flash Screen at Low Health = ON
+Loss of Control Alerts = ON
+Scrolling Combat Text for Self = OFF
+Mouseover Cast = OFF
+Self Cast = AutoFocus Cast Key = None
+Empowered Spell Interrupt = Hold and Release
+Spell Alert Opacity = 65%
+Press and Hold Casting = ON
+Enable Action Targeting = ON
+
+
+====  Gameplay > Social  ====
+Disable Chat = OFF
+Real Time Chat Filtering = Everyone except friends
+Mature Language Filter = ON
+Guild Member Alert = OFF
+Block Trades = OFF
+Block Guild Invites = OFF
+Block Neighborhood Invites = ON
+Restrict Calendar Invites = ON
+Block Chat Channel Invites = OFF
+Online Friends = ON
+Offline Friens = ON
+Broadcast Updates = OFF
+Location Visibility = Friends, Recent Allies, and Guildmates
+RealID and BattleTag Friend Requests = OFF
+Show Toast Window = ON
+Auto Accept Quick Join Requests = OFF
+Chat Style = IM Style
+New Whispers = New Tab
+Chat Timestamps = 15:27:32
+
+
+====  Gameplay > Ping System  ====
+Enable Pings = ON
+Ping Mode = Quick Ping
+Ping Sounds = ON (100%)
+Show Pings in Chat = ON
+
+
+====  Gameplay > Keybindings  ====
+
+---- Movement Keys ----
+Move Foreward = W
+Move Backward = S
+Strafe Left = A
+Strafe Right = D
+Jump = Spacebar
+Sit/Move Down = CTRL-S
+Sheath/Unsheath Weapon = CTRL-SHIFT-S
+Toggle Autorun = ALT-CTRL-SHIFT-`
+Pitch Up = Insert
+Pitch Down = Delete
+Toggle Run/Walk = ALT-`
+Follow Target - ALT-CTRL-SHIFT-S
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Interface Panel ----
+Toggle Game Menu = Escape
+Open All Bags = B
+Toggle Character Pane = C
+Toggle Quest Log = L
+Toggle World Map Pane = M
+Toggle Minimap = ALT-CTRL-SHIFT
+Toggle Zone Map = SHIFT-M
+Toggle Score Screen = SHIFT-Spacebar
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Action Bar ----
+Action Button 1 = 1
+Action Button 2 = 2
+Action Button 3 = 3
+Action Button 4 = 4
+Action Button 5 = 5
+Action Button 6 = 6
+Action Button 7 = 7
+Action Button 8 = 8
+Action Button 9 = 9
+Action Button 10 = 0
+Action Button 11 = -
+Action Button 12 = =
+Extra Action Button 1 = CTRL-Q
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Action Bar 2 ----
+Action Button 1 = K
+Action Button 2 = X
+Action Button 3 = T
+Action Button 4 = F1
+Action Button 5 = F2
+Action Button 6 = F3
+Action Button 7 = R
+Action Button 8 = J
+Action Button 9 = V
+Action Button 10 = F4
+Action Button 11 = F5
+Action Button 12 = F6
+
+---- Action Bar 3 ----
+Action Button 1 = N
+Action Button 2 = [
+Action Button 3 = ]
+Action Button 4 = F7
+Action Button 5 = F8
+Action Button 6 = F9
+Action Button 7 = \
+Action Button 8 = '
+Action Button 9 = ,
+Action Button 10 = F10
+Action Button 11 = F11
+Action Button 12 = F12
+
+---- Action Bar 4 ----
+Action Button 1 = Num Pad 0
+Action Button 2 = Num Pad /
+Action Button 3 = Num Pad *
+Action Button 4 = Num Pad -
+Action Button 5 = Page Up
+Action Button 6 = Page Down
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Action Bar 5 ----
+Action Button 1 = Mouse Button 4
+Action Button 2 = Middle Mouse
+Action Button 3 = Mouse Button 5
+Action Button 5 = Y
+Action Button 6 = H
+Action Button 7 = G
+Action Button 9 = F
+Action Button 10 = U
+Action Button 11 = I
+Action Button 12 = O
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Action Bar 5 ----
+ALL BUTTONS ARE: Not Bound
+
+---- Action Bar 6 ----
+ALL BUTTONS ARE: Not Bound
+
+---- Action Bar 7 ----
+ALL BUTTONS ARE: Not Bound
+
+---- Action Bar 8 ----
+ALL BUTTONS ARE: Not Bound
+
+---- Chat ----
+Open Chat = Enter
+Open Chat Slash = /
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Targeting ----
+Target Nearest Enemy = Tab
+Target Previous Enemy = SHIFT-Tab
+Target Nearest Friend = CTRL-Tab
+Target Previous Friend = CTRL-SHIFT-Tab
+Interact With Target = E
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Target Markers ----
+ALL BUTTONS ARE: Not Bound
+
+---- Vehicle Controls ----
+Exit Vehicle = Num Pad 5
+Previous Seat = Num Pad 1
+Next Seat = Num Pad 3
+Aim Increment = CTRL-Mouse Wheel Up
+Aim Decrement = CTRL-Mouse Wheel Down
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Camera ----
+Next View = End
+Previous View = Home
+Zoom In = Mouse Wheel Up
+Zoom Out = Mouse Wheel Down
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Ping System ----
+Ping = P
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Housing ----
+Toggle Grid Visibility = X
+Remove Decor = Delete
+Toggle Snap to Grid = G
+Toggle Decor Clipping = C
+Rotate Decor Left = Mouse Wheel Up
+Rotate Decor Right = Mouse Wheel Down
+Move Decor Left = Left Arrow
+Move Decor Right = Right Arrow
+Move Decor Foreward = Up Arrow
+Move Decor Backward = Down Arrow
+Move Decor Up = Page Up
+Move Decor Down = Page Down
+Scale Decor Up = ]
+Scale Decor Down =[
+Switch to next rotation axis = Tab
+Rotate Room Left = Q
+Rotate Room Right = E
+Move Camera Up = W
+Move Camera Left = A
+Move Camera Right = D
+Zoom In = Mouse Wheel Up
+Zoom Out = Mouse Wheel Down
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Miscellaneous ----
+Toggle User Interface = ALT-CTRL-SHIFT-Z
+Toggle Graphics Settings = ALT-CTRL-SHIFT-Backspace
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Other ----
+ALL BUTTONS ARE: Not Bound
+
+---- ALL THE THINGS ----
+ALL BUTTONS ARE: Not Bound
+
+---- AddOns ----
+ExtraQuestButton = Q
+ALL OTHER BUTTONS ARE: Not Bound
+
+---- Better Bags ----
+ALL BUTTONS ARE: Not Bound
+
+---- Total RP 3 ----
+ALL BUTTONS ARE: Not Bound
+
+---- Dejunk ----
+ALL BUTTONS ARE: Not Bound
+
+---- Elephant ----
+ALL BUTTONS ARE: Not Bound
+
+---- Equip Recommended Gear ----
+ALL BUTTONS ARE: Not Bound
+
+---- Leatrix Maps ----
+ALL BUTTONS ARE: Not Bound
+
+---- Leatrix Plus ----
+ALL BUTTONS ARE: Not Bound
+
+---- Mount Journal Enhanced ----
+ALL BUTTONS ARE: Not Bound
+
+---- WoW-Pro ----
+Use quest item = SHIFT-Q
+Target quest mob = ALT-Q
+
+
+====  Gameplay > Gameplay Enhancements ====
+
+---- Combat Assistant ----
+Assisted Highlight = OFF
+
+---- Boss Warnings ----
+Enable Boss Warnings = ON
+Enable Text Warnings = ON (All Warnings)
+Hide When Not Targeted = ON
+Enable Boss Timeline = ON
+Hide Long Countdowns = OFF
+Hide Queued Countdowns = OFF
+Hide Countdowns for Other Roles = ON
+Spell Support Oconography = All Icons
+
+---- Cooldown Manager ----
+Enable Cooldown Manager = ON
+
+---- External Defensives ----
+Enable External Defensives = OFF
+
+---- Damage Meter ----
+Enable Damage Meter = OFF
+
+---- Diminishing Returns ----
+Diminishing Returns Tracking = ON
+Only Castable by Me = ON
+
+
+====  Gameplay > Nameplates  ====
+
+---- Names ----
+My Name = OFF
+NPC Names = Hostile, Quest, and Interactive NPC's
+Critters and Companions = OFF
+Friendly Players = ON
+Minions = OFF
+Enemy Players = ON
+Minions = ON
+
+---- Nameplates ----
+Always Show Nameplates = ON
+Enemy Unit Nameplate = ON
+Minions = ON
+Minor = ON
+Friendly Player Nameplates = ON
+Show Offscreen Nameplates = OFF
+Stack Nameplates = Enemy Units, Friendly Units
+Size = 1
+Buff/Debuff Scale = 100%
+Nameplate Information = Health Percentage, Health Value, Rarity Icon
+Aggro Display = Progressive
+Enemy NPC Buffs/Debuffs = Mob Buffs, Personal Buffs, Shared CC
+Enemy Player Buffs/Debuffs = Enemy Buffs, Personal Debuffs, Big Debuff
+Friendly Player Buffs/Debuffs = Personal Debuffs, Enemy Buffs, Big Debuff
+Buff Padding = 3
+Simplify Nameplates = Friendly Players
+
+
+====  Accessibility > Interface  ====
+Text Scale = Large
+Quest Text Contrast = White
+
+
+====  Accessibility > General  ====
+Show Move Pad = OFF
+Enable Photosensitivity Mode = ON
+Minimum Character Name Size = 12
+Motion Sickness = ON
+Camera Shake = None
+Cursor Size = 64x64
+Self Highlight = Circle and Outline
+Show Silhouette when Obscured = ON
+Spell Alert Opacity = 65%
+Press and Hold Casting = ON
+Empower Spell Input = Hold and Release
+Show Target Tooltip = ON
+Interact Key Icons = Show All
+Arachnaphobia Mode = OFF
+
+
+====  Accessibility > Colors  ====
+ALL DEFAULT
+
+
+====  Accessibility > Audio Assist  ====
+
+---- Chat Text to Speech ----
+Transcribe Voice Chat = OFF
+Read Chat Text out loud = OFF
+Speak for me in Voice Chat = OFF
+
+---- Combat Audio Alerts ----
+Enable Combat Audio Alerts = ON
+Combat Speaker Voice = Microsoft Hazel Desktop - Englisch (Great Britain)
+Combat Speaker Speed = 0
+Combat Speaker Volume = 100
+Say Combat Start = Voice: "Combat Start"
+Say Combat End = Voice: "Combat End"
+Say Your Health = Health 10%
+Format = Health 20
+Throttle = 0.0 Sec
+Say Target Name = ON
+Say If Targeted = Voice: "Aggro"
+Say Target Health = Every 30%
+Format = Target 20
+When Target Dies = Voice: "Target Dead"
+Throttle = 0.0 Sec
+Say Party Health = OFF
+Say Your Focus = Every 10%
+Format = Focus 20
+Throttle = 0.0 Sec
+Say Your Cast = OFF
+Say Target Class = OFF
+Interruptable Cast Alert = Voice: "Interruptible Cast"
+Succesfull Interrupt Alert = Coice: "Target Interrupted"
+
+
+====  Accessibility > Mounts  ====
+Motion Sickness = Focal Circle
+Skyriding Screen Effects = ON
+Skyriding Speed Effects = ON
+Pitch Control = Default
+Debounce Pitch Input = OFF
+Keyboard Pitch Camera Follow = 20
+Min Keyboard Pitch Speed = 2.5
+Max Keyboard Pitch Speed = 5
+Min Keyboard Turn Speed = 5
+Max Keyboard Turn Speed = 8
+
+ 
+====  Accessibility > Subtitles  ====
+Cinematic Subtitles = ON
+Subtitles Background = None (Default)
+
+
+====  System > Graphics  ====
+
+---- Graphics Quality > Base ----
+Base Game Quality = 10
+Shadow Quality = Ultra High
+Liquid Detail = High
+Particle Density = Ultra
+SSAO = Ultra
+Depth Effects = High
+Compute Effects = Ultra
+Outline Mode = High
+Texture Resolution = High
+Spell Density = Everything
+Projected Textures = Enabled
+Vie Distance = 10
+Environment Detail = 10
+Ground Clutter = 10
+
+
+---- Graphics Quality > Raid and Battleground ----
+Base Game Quality = 1
+Shadow Quality = Low
+Liquid Detail = Low
+Particle Density = Low
+SSAO = Disabled
+Depth Effects = Disabled
+Compute Effects = Disabled
+Outline Mode = High
+Texture Resolution = Low
+Spell Density = Essential
+Projected Textures = Enabled
+Vie Distance = 5
+Environment Detail = 5
+Ground Clutter = 1

@@ -1,0 +1,112 @@
+Contains the Add-ons that are used.
+Use Curse Forge to install the addons.
+The names can be copied-pasted.
+
+Install the following Add-ons
+- All The Things
+- Achievements Back Button
+- BadBoy: Spam Blocker & Reporter
+- BadBoy_CCleaner: Filter Crap From Chat
+- BadBoy_Guilded: Block Guild Advertising
+- BadBoy_History
+- BadBoy_Ignore
+- Baganator
+- Bazooka
+- Bettable's Logout Alarm = Manually add ", 120000" to first line of "logoutalarm.toc"
+- Better Addon List = Manually add ", 120000" to first line of "BetterAddonList.toc"
+- Better Bags
+- BetterBags - AIO (All-In-One)
+- Better Bags - Archaeology
+- Better Bags - Openable Items
+- Better Bags - Scrap = Manually add ", 120000" to first line of "BetterBags_Scrap.toc"
+- Better Bags - Secrets
+- Better Bags - Teleports = Manually add ", 120000" to first line of "BetterBags-Teleports.toc"
+- BlizzMove
+- BlizzMove Plugin - Manuscripts Journal
+- BlizzMove Plugin - QuestTracker
+- BlizzMove Plugin - Soulshape Journal
+- BlizzMove Plugin - Venture Plan
+- Broker: Everything = Manually add ", 120000" to first line of "Broker_Everything.toc"
+- BugGrabber
+- ButtonForge
+- BuyEmAll for The War Within = Manually add ", 120000" to first line of "BuyEmAll.toc"
+- Can I Mog It? = Manually add ", 120000" to first line of "CanIMogIt.toc"
+- Chattynator
+- Chattynator x Listener Bridge
+- City Guide - Silvermoon
+- ColorPickerPlus = Manually add ", 120000" to first line of "ColorPickerPlus.toc"
+- Dejunk (Sell & Destroy Junk) = Manually add ", 120000" to first line of "Dejunk.toc"
+- Dialogue UI
+- Elephant = INCOMPATIBLE
+- Equip Recommended Gear
+- ExtraQuestButton
+- InFlight Taxi Times
+- ItemLevelDisplay
+- ItemVersion
+- GatherMate2
+- GatherMate2 Gas Clouds
+- GatherMate2_Data
+- Handy Minimap Arrow
+- HandyNotes
+- HandyNotes - Phase Diving Conduit
+- Handynotes - Rumor Map (Azj-Kahet Treasures)
+- HandyNotes: Battle for Azeroth Treasures and Rares
+- HandyNotes: Burning Crusade
+- HandyNotes: Dragonflight (Dragon Isles) Treasures and Rares
+- HandyNotes_DungeonLocations
+- HandyNotes: Mage Hall Portals
+- HandyNotes: Legion (Broken Isles) Treasures and Rares
+- HandyNotes: MapNotes
+- HandyNotes: MapNotes Retail only Instances and Delves locations
+- HandyNotes: Midnight (Treasures and Rares)
+- HandyNotes: Mists of Pandaria (Treasures and Rares)
+- HandyNotes: Shadowlands Treasures and Rares
+- HandyNotes: Silvermoon
+- HandyNotes: The War Within Treasures and Rares
+- HandyNotes: Warlords of Draenor (Treasure Hunter + Rares)
+- HandyNotes: Wrath of the Lich King (Northrend)
+- HandyNotes Skyriding Glyphs & Dragon Glyphs
+- HandyNotes Ferry Network
+- HandyNotes: Naxxramas Frozen Runes
+- Handynotes_Valdrakken
+- HandyNotes_AncientShrines
+- Handynotes_Jetpacks
+- HandyNotes: Ahn'Qiraj Scarab Coffers (AQ20/40)
+- HidingBar
+- Krowi's Extended Vendor UI
+- LargerMacroIconSelection = Manually add ", 120000" to first line of "LargerMacroIconSelection.toc" and "LargerMacroIconSelectionData.toc"
+- Leatrix Maps
+- Leatrix Plus
+- Listener = Manually add ", 120000" to first line of "Listener.toc"
+- Manuscripts Journal
+- Memento (Screenshots for Achievements, Raids, Dungeons, PvP & more)
+- MobInfo2
+- Molinari
+- Mount Journal Enhanced
+- New Openables = Manually add ", 120000" to first line of "NOP.toc"
+- NoAutoClose
+- Platynator
+- Requires Level X = Manually add ", 120000" to first line of "!RequiresLevelX.toc"
+- Routes
+- Routes Import/Export
+- ServerRestartSound
+- SilverDragon - Rare Scanner
+- Soulshape Journal = Manually add ", 120000" to first line of "SoulshapeJournal.toc"
+- Stat Priority
+- Syndicator
+- TomCat's Tours
+- TomPoints - Clickable waypoint links for TomTom or Map Pins
+- TomTom
+- Total RP 3
+- Total RP 3: Extended
+- TradeSkillMaster
+- Unlimited Map Pin Distance
+- VendorBuy
+- Venture Plan
+- VenturePlan MoreFollowers = Manually add ", 120000" to first line of "VenturePlanMoreFollowers.toc"
+- Waypoint UI
+- Where To Gather
+- World Quest Tab
+- WorldQuestTab: Modifer Hide = Manually add ", 120000" to first line of "WorldQuestTab_ModiferHide.toc"
+- World Quest Tracker
+- WoW-Pro Guides

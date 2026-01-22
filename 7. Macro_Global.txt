@@ -1,0 +1,180 @@
+All the Global Macros for "WoW Warharf" and the locations on the bars
+
+====  Bar 2  =====
+
+DESCRIPTION = Usable Equipment
+NAME = Gear
+ICON = Automatic
+LOCATION = Bar 2 > Column 1 > Button 3
+#showtooltip
+/use [mod:shift]5;[mod:alt]15;[mod:ctrl]14;13
+
+DESCRIPTION = Show the Icon for Trinket 2
+NAME = Gear_C
+ICON = Automatic
+LOCATION = ButtonForge Bar 3 > Column 4 > Button 8
+#showtooltip
+/use 14
+
+DESCRIPTION = Show the Icon for the Chest item
+NAME = Gear_S
+ICON = Automatic
+LOCATION = ButtonForge Bar 3 > Column 4 > Button 7
+#showtooltip
+/use 5
+
+DESCRIPTION = Show the Icon for the Back item
+NAME = Gear_A
+ICON = Automatic
+LOCATION = ButtonForge Bar 3 > Column 5 > Button 8
+#showtooltip
+/use 15
+
+
+DESCRIPTION = Show the Icon for Overtuned Corgi Goggles
+NAME = Group_A
+ICON = Automatic
+LOCATION = ButtonForge Bar2 > Column 2 > Button 12
+#showtooltip
+/use Overtuned Corgi Goggles
+
+DESCRIPTION = Show the Icon for Whole-Body Shrinka'
+NAME = Group_CSA
+ICON = Automatic
+LOCATION = ButtonForge Bar2 > Column 2 > Button 11
+#showtooltip
+/use Whole-Body Shrinka'
+
+DESCRIPTION = Show the Icon for Eyes For You Only
+NAME = Group_SA
+ICON = Automatic
+LOCATION = ButtonForge Bar2 > Column 3 > Button 11
+#showtooltip
+/use Eyes For You Only
+
+DESCRIPTION = Show the Icon for Jar of Sunwarmed Sand
+NAME = Group_CA
+ICON = Automatic
+LOCATION = ButtonForge Bar2 > Column 3 > Button 12
+#showtooltip
+/use Jar of Sunwarmed Sand
+
+
+====  BAR 3  ==
+
+DESCRIPTION = Profession related Spells
+NAME = Tools
+ICON = Automatic
+LOCATION = Bar 3 > Column 1 > Button 5
+#showtooltip
+/use [known:251463,mod:ctrlshiftalt]Vindicaar Matrix Crystal;[mod:shift]Anomaly Detection Mark I;[known:388213,mod:ctrl]Overload Elemental Deposit;[known:390392,mod:alt]Overload Elemental Herb;Mechanism Bypass
+
+
+====  BAR 4  ====
+
+DESCRIPTION = Use for Falling
+NAME = Fall
+ICON = Automatic
+LOCATION = Bar 4 > Button 1
+#showtooltip
+/use [known:flap,form:4,nomod]Flap;[mod:alt]15;Stylish Black Parasol
+
+DESCRIPTION = Icon to show Back item
+NAME = Back
+ICON = Automatic
+LOCATION = ButtonForce Bar4 > Row 2 > Column 2
+#showtooltip
+/use 15
+
+==== Bar 5 ====
+
+DESCRIPTION = Macro Mousewheel Left
+NAME = B3
+ICON = Search Icon = ability_hunter_spearhead (number 4667416)
+LOCATION = Bar 5 > Button 1
+#showtooltip
+/target [notarget][dead]
+/opt [nogroup,pet][noraid,pet] /e shouts %p attack %t!
+/petattack [pet]
+/autoattack [nocombat]
+
+DESCRIPTION = Macro Mousewheel Middle
+NAME = B4
+ICON = Search Icon = achievement_quests_completed_01 (number 236664)
+#showtooltip
+/click ExtraActionButton1
+
+DESCRIPTION = Macro Mousewheel Right
+NAME = B5
+ICON = Search Icon = ui-vehicles-button-exit-down-icon (number 6656430)
+LOCATION = Bar 5 > Button 3
+#showtooltip
+/leavevehicle [mod:alt,nomod:ctrl/shift]
+/dismount [mounted,mod:alt,nomod:ctrl/shift]
+/cancelaura Summon Slick
+
+DESCRIPTION = Focus
+NAME = Focus
+ICON = Search Icon = ability_hisec_aim (number 878211)
+LOCATION = Bar 5 > Button 6
+/target [@focus,exists]
+/clearfocus [mod:ctrlshiftalt]
+/tm [mod:alt]0
+/stopmacro [@focus,exists]
+/focus [@mouseover,exists,nodead]
+/tm [@focus,,harm]8
+/tm [@focus,help]4
+
+DESCRIPTION = Guild related
+NAME = Guild
+ICON = Automatic
+LOCATION = Bar 5 > Button 7
+#showtooltip
+/summonpet [mod:ctrl]Guild Herald
+/summonpet [mod:shift]Guild Page
+/use [nomod]Mobile Banking
+
+
+DESCRIPTION = Fishing related (1)
+NAME = Fishing
+ICON = Automatic
+LOCATION = Bar 5 > Button 9
+#showtooltip [mod:ctrlshiftalt]Auto Attack;[mod:ctrl]Nat's Hat;Fishing
+/run SetCVar("Sound_MasterVolume", 1)
+/outfitter [mod:ctrlshiftalt]unwear Fishing;wear Fishing
+/use [nomod]Fishing
+/stopmacro [nomod]
+/run SetCVar("Sound_MasterVolume", 0.50)
+
+DESCRIPTION = Cooking
+NAME = Cook
+ICON = Automatic
+LOCATION = Bar 5 > Button 12
+#showtooltip
+/use [mod:ctrl,nomod:shift/alt]Cozy Bonfire;[mod:shift,nomod:ctrl/alt]Cooking Fire;[mod:alt,nomod:ctrl/shift]Muckpool Cookpot;[nomod]Cooking
+/use [nomod]Chef's Hat
+/cancelaura [mod:ctrlshiftalt]Chef's Hat
+
+DESCRIPTION = Toggle DeJunk window
+NAME = DeJunk
+ICON = Icon Search = inv_misc_coinbag_special (number 901746)
+LOCATION = Bar 6 > Button 1
+#showtooltip
+/dejunk
+
+DESCRIPTION = Fishing Tools
+NAME = Tools Fish
+ICON = Automatic
+LOCATION = Bar 6 > Button 9
+#showtooltip
+/use [mod:ctrl]Undercurrent;[mod:shift]Ancient Pandaren Fishing Charm;[mod:alt]Anglers Fishing Raft;Crate of Bobbers: Squeaky Duck
+
+
+====  Bar 8  ====
+
+DESCRIPTION = Water walking
+NAME = Waterwalk
+ICON = Automatic
+LOCATION = Bar 8 > Button 2
+#showtooltip
+/use [known:Water Walking]Water Walking;Glimmerflies on Strings

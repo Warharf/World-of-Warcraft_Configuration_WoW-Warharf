@@ -1,0 +1,123 @@
+All settings for the Chat windows, for "WoW Warharf".
+Note: The windows are to be dragged in the correct position.
+
+
+====  Window 1  ====
+Position = Top Left (Left)
+
+Tab = General
+Colour = Default
+Message Type: Chat = 
+Message Type: Channels = General, Trade, Services
+Message Type: Creature = 
+Message Type: Rewards = 
+Message Type: PvP = 
+Message Type: System = Target Icons
+Message Type: Addons = 
+
+Tab = Guild
+Colour = Default
+Message Type: Chat = Guild Chat, Officer Chat, Guild Announce
+Message Type: Channels = 
+Message Type: Creature = 
+Message Type: Rewards = 
+Message Type: PvP = 
+Message Type: System = 
+Message Type: Addons = 
+
+Tab = Combat Log
+Colour = Default
+Message Type: All Default
+
+Tab = ALL
+Colour = Default
+Message Type: Everything
+
+
+====  Window 2  ====
+Position = Top Left (Right)
+
+Tab = System
+Colour = Default
+Message Type: Chat = 
+Message Type: Channels = 
+Message Type: Creature = 
+Message Type: Rewards = 
+Message Type: PvP = 
+Message Type: System = System Messages, Blizzard Services Alerts
+Message Type: Addons = 
+
+
+====  Window 3  ====
+Position = Bottom Left (Bottom)
+
+Tab = Party Alliance
+Colour = 3b3b80
+Message Type: Chat = Whisper, Blizzard Whisper, Party, Party Leader, Raid, Raid Leader, Raid Warning, Instance, Instance Leader
+Message Type: Channels = 
+Message Type: Creature = 
+Message Type: Rewards = 
+Message Type: PvP = Battleground Alliance
+Message Type: System = Blizzard Services Alerts
+Message Type: Addons = 
+
+Tab = Party Horde
+Colour = 803b3b
+Message Type: Chat = Whisper, Blizzard Whisper, Party, Party Leader, Raid, Raid Leader, Raid Warning, Instance, Instance Leader
+Message Type: Channels = 
+Message Type: Creature = 
+Message Type: Rewards = 
+Message Type: PvP = Battleground Horde
+Message Type: System = Blizzard Services Alerts
+Message Type: Addons = 
+
+====  Window 4  ====
+Position = Bottom Left (Top)
+
+Tab = Environment Horde
+Colour = 3b3b80
+Message Type: Chat = Say, Emote, Yell
+Message Type: Channels = Local Defense
+Message Type: Creature = ALL
+Message Type: Rewards = 
+Message Type: PvP = Battleground Alliance, Battleground Neutral
+Message Type: System = 
+Message Type: Addons = 
+
+Tab = Environment Alliance
+Colour = 803b3b
+Message Type: Chat = Say, Emote, Yell
+Message Type: Channels = Local Defense
+Message Type: Creature = ALL
+Message Type: Rewards = 
+Message Type: PvP = Battleground Horde, Battleground Neutral
+Message Type: System = 
+Message Type: Addons = 
+
+
+====  Window 5  ====
+Position = Bottom Right (Bottom)
+
+Tab = Loot
+Colour = Default
+Message Type: Chat = 
+Message Type: Channels = 
+Message Type: Creature = 
+Message Type: Rewards = Item Loot, Currency, Money Loot
+Message Type: PvP = 
+Message Type: System = 
+Message Type: Addons = 
+
+
+====  Window 6  ====
+Position = Bottom Right (Top)
+
+Tab = Reputation
+Colour = Default
+Message Type: Chat = Achievement Announce
+Message Type: Channels = 
+Message Type: Creature = 
+Message Type: Rewards = Experience, Honor, Reputation, Skill-ups
+Message Type: PvP = 
+Message Type: System = 
+Message Type: Addons = 

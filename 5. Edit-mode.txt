@@ -1,0 +1,9 @@
+All the "Tracked Buffs" and "Advanced Cooldown Settings" for "WoW Warharf"
+
+
+====  Tracked Buffs  ====
+Icon Direction = Left
+ALL OTHER SETTINGS: Default
+
+---- Advanced Cooldown Settings ----
++New Layout: WoW Warharf
