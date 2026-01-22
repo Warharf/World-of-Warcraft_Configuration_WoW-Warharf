@@ -17,6 +17,7 @@ X = Temporarily Disable, until permanent selection
 ✓ Bettable's Logout Alarm
 ✓ Better Addon List
 V Baganator
+V Syndicator
 X Better Bags
 X BetterBags - AIO (All-In-One)
 X Better Bags - Archaeology
