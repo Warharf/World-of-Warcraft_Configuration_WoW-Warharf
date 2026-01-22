@@ -1,7 +1,7 @@
-What Add-ons should be activated (and when)
 ✓ = Always Enable
+V = Temporarily Enable, until permanent selection
 ❌ = Always Disable
-X = Disable until fixed
+X = Temporarily Disable, until permanent selection
 ⚙ = Only Enable during first configuration
 
 ✓ All The Things
@@ -16,13 +16,13 @@ X = Disable until fixed
 ✓ Bazooka Options
 ✓ Bettable's Logout Alarm
 ✓ Better Addon List
+V Baganator
 X Better Bags
 X BetterBags - AIO (All-In-One)
 X Better Bags - Archaeology
 X Better Bags - Openable Items
 X Better Bags - Scrap
 X Better Bags - Secrets
-X Better Bags - Teleports
 ✓ BlizzMove
 ❌ BlizzMove - Debugging plugin
 ✓ BlizzMove Plugin - Manuscripts Journal
@@ -130,5 +130,4 @@ X Better Bags - Teleports
 ✓ WoW-Pro Dailies
 ✓ WoW-Pro Leveling
 ✓ WoW-Pro Profession
-
 ✓ WoW-Pro WorldEvents
