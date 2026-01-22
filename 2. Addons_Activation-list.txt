@@ -1,6 +1,7 @@
 What Add-ons should be activated (and when)
 ✓ = Always Enable
 ❌ = Always Disable
+X = Disable until fixed
 ⚙ = Only Enable during first configuration
 
 ✓ All The Things
@@ -15,13 +16,13 @@ What Add-ons should be activated (and when)
 ✓ Bazooka Options
 ✓ Bettable's Logout Alarm
 ✓ Better Addon List
-✓ Better Bags
-✓ BetterBags - AIO (All-In-One)
-✓ Better Bags - Archaeology
-✓ Better Bags - Openable Items
-✓ Better Bags - Scrap
-✓ Better Bags - Secrets
-✓ Better Bags - Teleports
+X Better Bags
+X BetterBags - AIO (All-In-One)
+X Better Bags - Archaeology
+X Better Bags - Openable Items
+X Better Bags - Scrap
+X Better Bags - Secrets
+X Better Bags - Teleports
 ✓ BlizzMove
 ❌ BlizzMove - Debugging plugin
 ✓ BlizzMove Plugin - Manuscripts Journal
@@ -129,4 +130,5 @@ What Add-ons should be activated (and when)
 ✓ WoW-Pro Dailies
 ✓ WoW-Pro Leveling
 ✓ WoW-Pro Profession
+
 ✓ WoW-Pro WorldEvents
