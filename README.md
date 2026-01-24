@@ -60,3 +60,10 @@ Contains the settings for Dialogue UI, for "WoW Warharf"
 
 18. Equip Recommended Gear.txt
 Contains the settings for Equip Recommended Gear, for "WoW Warharf"
+
+19. Leatrix Plus.txt
+Contains the settings for Leatrix Plus, for "WoW Warharf"
+
+20. Leatrix Maps.txt
+Contains the settings for Leatrix Maps, for "WoW Warharf"
+
