@@ -1,0 +1,21 @@
+====  Enable/Disable modules  ====
+Disable all modules, except the once in the following list:
+
+Archaeology = ON
+Class specs = ON
+Currency = ON
+Difficulty = ON
+Dungeons = ON
+Durability = ON
+Equipment = ON
+Friends = ON
+Guild = ON
+IDs = ON
+Nameplates = ON
+Notes = ON
+Professions = ON
+Quest Log = ON
+Raids = ON
+Volume = ON
+GPS = ON
+Realm = ON
