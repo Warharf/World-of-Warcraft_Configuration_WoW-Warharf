@@ -1,3 +1,6 @@
+====  Profiles  ====
+Create and/or select the profile WoW Warharf
+
 ====  Toggle  ====
 Skin Button = ON
 Backdrop Button = ON
@@ -16,3 +19,19 @@ AutoQuest = ON
 Herald = OFF
 Hide in combat = OFF
 Skip exalted = ON
+
+
+====  Button  ====
+X = -1000
+Y = 320
+Width and Height = 36
+Miner's Coffee stacks = 5
+
+
+====  Quest Bar  ====
+Sticky = ON
+Buttons per row = 1-
+Spacing = 1
+Direction = Right
+Add new row = Up
+Hot-key = ALT-Q
