@@ -1,0 +1,15 @@
+Only Enable what is mentioned in this list. All other options should be disabled.
+
+Scale the map
+
+---- Scale the map ----
+Windowsed = 120%
+Maximized = 100%
+
+Show unexplored areas
+Enhance battlefield map
+
+---- Enhance battlefield map ----
+Unlock battlefield map
+
+Disable map fade
