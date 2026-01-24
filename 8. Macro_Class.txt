@@ -24,7 +24,7 @@ CODE =
 /use [mod:ctrlshiftalt]Whole-Body Shrinka';[mod:shiftalt]Eyes For You Only;[mod:ctrlalt]Jar of Sunwarmed Sand;[mod:alt]Overtuned Corgi Goggles;[@mouseover][@player]Mark of the Wild
 
 ====  Help  ====
-DESCRIPTION = 
+DESCRIPTION = Rebirth, Revive and Remove Corruption
 NAME = Help
 ICON = Automatic
 LOCATION = Bar 5, Button 7
@@ -34,7 +34,7 @@ CODE =
 
 
 ====  M16  ====
-DESCRIPTION = 
+DESCRIPTION = Regrowth on Focus (Shift), Mouseover (Ctrl), Target (Nomod) of player (Alt, or No Target)
 NAME = Regrowth
 ICON = Automatic
 LOCATION = 
@@ -44,7 +44,7 @@ CODE =
 
 
 ====  M17  ====
-DESCRIPTION = 
+DESCRIPTION = Rejuvenation (Shift), Mouseover (Ctrl), Target (Nomod) of player (Alt, or No Target)
 NAME = Rejuvenation
 ICON = Automatic
 LOCATION = 
@@ -55,7 +55,7 @@ CODE =
 
 ====  M18  ====
 DESCRIPTION = 
-NAME = Wild Growth
+NAME = Wild Growth (Shift), Mouseover (Ctrl), Target (Nomod) of player (Alt, or No Target)
 ICON = Automatic
 LOCATION = 
 CODE = 
@@ -77,7 +77,7 @@ Code =
 ====  Prowl  ====
 NAME = Prowl
 ICON = Automatic
-LOCATION = Bar 4 > Row 6 > Button 1
+LOCATION = Bar 4 > Row 4 > Button 1
 CODE = 
 #showtooltip
 /use [spec:1,form:2]Moonkin Form
@@ -89,10 +89,11 @@ CODE =
 ====  Sheep  ====
 NAME = Sheep
 ICON = Automatic
-LOCATION = Bar 4 > Row 1 > Button 1
+LOCATION = Bar 4 > Row 2 > Button 1
 CODE = 
 #showtooltip
 /focus [@mouseover,exists,nodead,mod:shift][@target,mod:shift]
 /clearfocus [@focus,dead][mod:ctrlshift]
 /use [mod:alt]Mass Entanglement;[@mouseover,harm,mod:ctrl][@focus,harm,nodead][nomod]Entangling Roots
+
 
