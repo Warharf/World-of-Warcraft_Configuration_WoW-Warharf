@@ -1,0 +1,72 @@
+====  UI  ====
+Theme = Dark
+Frame Size = Medium
+Font Size = 12
+Font = Default Font
+Orientation = Right
+Hide UI = OFF
+Show Copy Text Button = OFF
+Show NPC Name = OFF
+
+---- Quest ----
+Mark Highest Sell Price = ON
+Show Quest Type Text = ON
+Simplify Currency Rewards = ON
+Use Blizzard Tooltip = OFF
+
+---- Readables ----
+Use New UI for Readable Objects = ON
+Frame Size = Small
+Keep Window Open = OFF
+Show Location = ON
+Show Item Description = ON
+Darken Screen = ON
+
+---- Accessibility ----
+Reduce UI Movement
+
+
+====  Camera  ====
+Camera Movement = OFF
+
+
+====  Control  ====
+Input Device = KB&M
+Use Custom Binding = OFF
+Confirm Button = Space
+Right Click Close UI = ON
+Press Tab To Select Reward = ON
+Disable Hotkey For Teleport = OFF
+
+---- Quest ----
+Press Button To Scroll Down = OFF
+Press Escape To Decline Quest = OFF
+
+---- Experimental ----
+Disable ALL
+
+
+====  Gameplay  ====
+Auto Quest Popup = ON
+Quest item Display = ON
+Ignore Seen Items = OFF
+Await World Map = OFF
+
+---- Quest ----
+Valuable Reward Popup = ON
+Auto Complete Quest = ON
+Press Button To Use = ON
+
+---- Gossip ----
+Autoselection Option = ON
+Force Gossip = ON
+Skip GameObject = OFF
+Show Hint = ON
+
+---- Compatibility ----
+Use WoW's Default UI In Instance = ON
+
+
+====  Accessibility  ====
+Reduce UI Movements = ON
+Text To Speech = OFF
