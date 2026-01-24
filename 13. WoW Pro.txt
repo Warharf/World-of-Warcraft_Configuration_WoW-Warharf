@@ -1,0 +1,84 @@
+All the in-game settings of WoW-Pro
+
+
+==== Profiles ====
+Create and/or select the profile "Wow Warharf"
+
+
+====  Main  ====
+Enable all settings, except "Enable Debug"
+
+
+====  Guide Display  ====
+Enable Drag = ON
+Enable Instance Hide = OFF
+Enable Instance Notify = ON
+Enable Combat Hide = OFF
+Mouseover Notes = OFF
+Minimap Button = OFF
+Quest Tracking = ON
+Show Coordinates = ON
+Auto-Load Guide = ON
+Scroll Mode = OFF
+Guide Progress = OFF
+Display Quest Progress = ON
+Left Handed = ON
+Enable Sound = ON
+Step Completed Sound = Map Ping
+
+Padding = 5
+Spacing = 5
+
+---- Resize Settings ----
+Resize Handle = OFF
+Auto Resize = ON
+Auto Resize: Number of Steps = 1
+Min Resize Horiz = 200
+Min Resize Vert = 100
+
+---- Title Bar & Button Bar
+Enable Title Bar = ON
+Title Bar Color = #000000 A80
+Enable Button Bar = ON
+
+---- Backgrounds ----
+GHuide Window Background = Blizzard Tooltip (#000000 A80)
+Border Texture = Blizzard Tooltip (Enable Border = ON)
+Sticky Background = Blizzard Tooltip (#CCCCCC A70)
+
+---- Text Formatting ----
+Step Font = Emblem (Step Text Size = 14)
+Step Text Color = #FFFFFF
+Note Font = Drummon (Step Text Size = 11)
+Note Text Color = F0FF93
+Tracker Font = Emblem (Step Text Size = 15)
+Tracker Text Color = FFFF00
+Title Bar Font = Emblem (Step Text Size = 15)
+Title Bar Text Color = FFFF00
+'As you go:' Text Color = B9B9B9
+
+
+====  Ranks  ====
+
+---- WoWPro ----
+Global Rank = 3
+Toon Rank = 3
+
+---- Achievements ----
+Achievements Rank = 3
+
+---- Leveling ----
+Leveling Rank = 3
+
+---- Profession ----
+Profession Rank = 3
+
+---- Dailies ----
+Dailies Rank = 0
+
+---- WorldEvents ----
+WorldEvents Rank = 0
+
+
+====  Expert  ====
+Deselect all
