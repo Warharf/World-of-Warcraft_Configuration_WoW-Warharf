@@ -54,3 +54,7 @@ Note: The order is the order of the Plugins, as shown on the bars.
 
 16. City Guide.txt
 Contains the settings for City Guide, for "WoW Warharf"
+
+17. Dialogue UI.txt
+Contains the settings for Dialogue UI, for "WoW Warharf"
+
