@@ -4,7 +4,7 @@ V = Temporarily Enable, until permanent selection
 X = Temporarily Disable, until permanent selection
 ⚙ = Only Enable during first configuration
 
-✓ All The Things
+✓ AllTheThings
 ✓ Achievements Back Button
 ✓ Ark Inventory [Rules] Covenant
 ✓ Ark Inventory [Rules] More Rules
@@ -23,7 +23,6 @@ X = Temporarily Disable, until permanent selection
 ✓ BadBoy_Guilded
 ✓ BadBoy_History
 ✓ BadBoy_Ignore
-✓ Baganator
 ✓ Bazooka
 ✓ Bazooka Options
 ✓ Bettable's Logout Alarm
@@ -41,12 +40,12 @@ X = Temporarily Disable, until permanent selection
 ✓ BuyEmAll
 ✓ Can I Mog It?
 ✓ Chattynator
-✓ Chattynator x Listener Bridge
+❌ Chattynator x Listener Bridge
 ✓ City Guide
 ✓ ColorPickerPlus
 ✓ Dejunk
 ✓ Dialogue UI
-✓ Elephant
+❌ Elephant
 ✓ Equip Recommended Gear
 ✓ ExtraQuestButton
 ✓ GatherMate2
@@ -91,7 +90,7 @@ X = Temporarily Disable, until permanent selection
 ✓ LargerMacroIconSelectionData
 ✓ Leatrix Maps
 ✓ Leatrix Plus
-✓ Listener
+❌ Listener
 ✓ Manuscripts Journal
 ✓ MobInfo2 Retail
 ✓ Molinari
@@ -110,7 +109,6 @@ X = Temporarily Disable, until permanent selection
 ✓ SilverDragon: Range Extender
 ✓ Soulshape Journal
 ✓ Stat Priority
-✓ Syndicator
 ✓ TomCat's Tours
 ✓ TomPoints TomTom/MapPin Linker
 ✓ TomTom
@@ -136,5 +134,6 @@ X = Temporarily Disable, until permanent selection
 ✓ WoW-Pro Leveling
 ✓ WoW-Pro Profession
 ✓ WoW-Pro WorldEvents
+
 
 
