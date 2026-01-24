@@ -57,7 +57,6 @@ Install the following Add-ons
 - HandyNotes: Battle for Azeroth Treasures and Rares
 - HandyNotes: Burning Crusade
 - HandyNotes: Dragonflight (Dragon Isles) Treasures and Rares
-- HandyNotes_DungeonLocations
 - HandyNotes: Mage Hall Portals
 - HandyNotes: Legion (Broken Isles) Treasures and Rares
 - HandyNotes: MapNotes
@@ -70,7 +69,6 @@ Install the following Add-ons
 - HandyNotes: Warlords of Draenor (Treasure Hunter + Rares)
 - HandyNotes: Wrath of the Lich King (Northrend)
 - HandyNotes Skyriding Glyphs & Dragon Glyphs
-- HandyNotes Ferry Network
 - HandyNotes: Naxxramas Frozen Runes
 - Handynotes_Valdrakken
 - HandyNotes_AncientShrines
@@ -114,4 +112,5 @@ Install the following Add-ons
 - WorldQuestTab: Modifer Hide = Manually add ", 120000" to first line of "WorldQuestTab_ModiferHide.toc"
 - World Quest Tracker
 - WoW-Pro Guides
+
 
