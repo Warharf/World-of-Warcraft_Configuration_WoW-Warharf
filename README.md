@@ -70,3 +70,5 @@ Contains the settings for Leatrix Maps, for "WoW Warharf"
 21. New Openables.txt
 Contains the settings for New Openables, for "WoW Warharf"
 
+22. TomCat's Tours.txt
+Contains the settings for TomCat's Tours, for "WoW Warharf"
