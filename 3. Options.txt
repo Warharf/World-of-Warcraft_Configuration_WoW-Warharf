@@ -287,6 +287,7 @@ Switch to next rotation axis = Tab
 Rotate Room Left = Q
 Rotate Room Right = E
 Move Camera Up = W
+Move Camera Down = S
 Move Camera Left = A
 Move Camera Right = D
 Zoom In = Mouse Wheel Up
@@ -507,3 +508,4 @@ Projected Textures = Enabled
 Vie Distance = 5
 Environment Detail = 5
 Ground Clutter = 1
+
