@@ -6,18 +6,18 @@ X = Temporarily Disable, until permanent selection
 
 ✓ All The Things
 ✓ Achievements Back Button
-- Ark Inventory [Rules] Covenant
-- Ark Inventory [Rules] More Rules
-- Ark Inventory [Rules] Openables
-- Ark Inventory [Rules] Profession
-- Ark Inventory [Rules] RaceFaction
-- Ark Inventory [Rules] TSMValue
-- Ark Inventory
-- Ark Inventory [Configuration]
-- Ark Inventory Rules]
-- Ark Inventory Search]
-- Ark Inventory [Rules] Character
-- df ArkInventory Rules
+✓ Ark Inventory [Rules] Covenant
+✓ Ark Inventory [Rules] More Rules
+✓ Ark Inventory [Rules] Openables
+✓ Ark Inventory [Rules] Profession
+✓ Ark Inventory [Rules] RaceFaction
+✓ Ark Inventory [Rules] TSMValue
+✓ Ark Inventory
+✓ Ark Inventory [Configuration]
+✓ Ark Inventory Rules]
+✓ Ark Inventory Search]
+✓ Ark Inventory [Rules] Character
+✓ df ArkInventory Rules
 ✓ BadBoy
 ✓ BadBoy_CCleaner
 ✓ BadBoy_Guilded
@@ -136,4 +136,5 @@ X = Temporarily Disable, until permanent selection
 ✓ WoW-Pro Leveling
 ✓ WoW-Pro Profession
 ✓ WoW-Pro WorldEvents
+
 
