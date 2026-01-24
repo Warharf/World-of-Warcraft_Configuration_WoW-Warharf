@@ -41,3 +41,16 @@ Contains the Platynator Style import string, for "WoW Warharf"
 
 12. Platynator_Profile.txt
 Contains the Platynator Profile import string, for "WoW Warharf"
+
+13. WoW-Pro.txt
+Contains the settings for WoW-Pro, for "WoW Warharf"
+
+14. Broker_Everything.txt
+Contains the BrokerEverything modules that are to be enabled, for "WoW Warharf"
+
+15. Bazooka.txt
+Contains the settings for Bazooka, for "WoW Warharf"
+Note: The order is the order of the Plugins, as shown on the bars.
+
+16. City Guide.txt
+Contains the settings for City Guide, for "WoW Warharf"
