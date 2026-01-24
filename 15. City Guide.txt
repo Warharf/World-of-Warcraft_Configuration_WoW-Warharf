@@ -1,0 +1,56 @@
+====  General  ====
+Enable all
+
+
+====  Filters  ====
+Enable all
+
+
+==== Display  ====
+Display System = Tooltip Mode
+Select Display Mode = Small Icons with Tooltips
+
+
+====  Sizes  ====
+Label Size (Global) = 1.0
+Icon Size (Global) = 0.8
+
+
+====  Silvermoon  ====
+Icon Size = 0.8
+Label Size = 1.0
+Condense Profession Tables = OFF
+Faction POIs Only Mode
+
+
+====  Dornogal  ====
+Icon Size = 0.8
+Label Size = 1.0
+Condense Profession Tables = OFF
+
+
+==== Tazavesh (K'aresh) ====
+Icon Size = 0.8
+Label Size = 1.0
+
+
+====  Valdrakken  ====
+Icon Size = 0.8
+Label Size = 1.0
+Condense Profession Tables = OFF
+
+
+====  Dalaran (Legion/Remix)  ====
+Icon Size = 0.8
+Label Size = 1.0
+
+
+====  Orgrimmar  ====
+Icon Size = 0.8
+Label Size = 1.0
+
+
+====  Stormwind  ====
+Icon Size = 0.8
+Label Size = 1.0
+Condense Profession Tables = OFF
