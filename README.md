@@ -72,3 +72,6 @@ Contains the settings for New Openables, for "WoW Warharf"
 
 22. TomCat's Tours.txt
 Contains the settings for TomCat's Tours, for "WoW Warharf"
+
+Manual actions (not setting related):
+- Drag the TomTom Arrow to the right of the minimap, then Right-Click it and select "Lock crazy arrow"
