@@ -6,6 +6,18 @@ X = Temporarily Disable, until permanent selection
 
 ✓ All The Things
 ✓ Achievements Back Button
+- Ark Inventory [Rules] Covenant
+- Ark Inventory [Rules] More Rules
+- Ark Inventory [Rules] Openables
+- Ark Inventory [Rules] Profession
+- Ark Inventory [Rules] RaceFaction
+- Ark Inventory [Rules] TSMValue
+- Ark Inventory
+- Ark Inventory [Configuration]
+- Ark Inventory Rules]
+- Ark Inventory Search]
+- Ark Inventory [Rules] Character
+- df ArkInventory Rules
 ✓ BadBoy
 ✓ BadBoy_CCleaner
 ✓ BadBoy_Guilded
@@ -16,14 +28,6 @@ X = Temporarily Disable, until permanent selection
 ✓ Bazooka Options
 ✓ Bettable's Logout Alarm
 ✓ Better Addon List
-V Baganator
-V Syndicator
-X Better Bags
-X BetterBags - AIO (All-In-One)
-X Better Bags - Archaeology
-X Better Bags - Openable Items
-X Better Bags - Scrap
-X Better Bags - Secrets
 ✓ BlizzMove
 ❌ BlizzMove - Debugging plugin
 ✓ BlizzMove Plugin - Manuscripts Journal
@@ -132,3 +136,4 @@ X Better Bags - Secrets
 ✓ WoW-Pro Leveling
 ✓ WoW-Pro Profession
 ✓ WoW-Pro WorldEvents
+
