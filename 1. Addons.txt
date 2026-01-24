@@ -9,6 +9,14 @@ X = Temporary removal
 Install the following Add-ons
 - All The Things
 - Achievements Back Button
+- ArkInventoryRules_Covenant
+- ArkInventoryRules_Faction
+- df_ArkInventory Rules = Manually add ", 120000" to first line of "df-ArkInventoryRules.toc"
+- ArkInventoryRules_Profession
+- ArkInventoryRules_Openables = Manually add ", 120000" to first line of "ArkInventoryRules_Openables.toc"
+- ArkInventoryRules_MoreRules = Manually add ", 120000" to first line of "ArkInventoryRules_MoreRules.toc"
+- ArkInventoryCharacterRules = Manually add ", 120000" to first line of "ArkInventoryCharacterRules.toc"
+- ArkInventoryRules_TSMValue = Manually add ", 120000" to first line of "ArkInventoryRules_TSMValue.toc"
 - BadBoy: Spam Blocker & Reporter
 - BadBoy_CCleaner: Filter Crap From Chat
 - BadBoy_Guilded: Block Guild Advertising
@@ -17,15 +25,6 @@ Install the following Add-ons
 - Baganator
 - Bazooka
 - Bettable's Logout Alarm = Manually add ", 120000" to first line of "logoutalarm.toc"
-- Better Addon List = Manually add ", 120000" to first line of "BetterAddonList.toc"
-V Baganator
-V Syndicator
-X Better Bags
-X BetterBags - AIO (All-In-One)
-X Better Bags - Archaeology
-X Better Bags - Openable Items
-X Better Bags - Scrap = Manually add ", 120000" to first line of "BetterBags_Scrap.toc"
-X Better Bags - Secrets
 - BlizzMove
 - BlizzMove Plugin - Manuscripts Journal
 - BlizzMove Plugin - QuestTracker
@@ -115,3 +114,4 @@ X Better Bags - Secrets
 - WorldQuestTab: Modifer Hide = Manually add ", 120000" to first line of "WorldQuestTab_ModiferHide.toc"
 - World Quest Tracker
 - WoW-Pro Guides
+
