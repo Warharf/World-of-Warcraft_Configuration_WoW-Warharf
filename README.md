@@ -58,3 +58,5 @@ Contains the settings for City Guide, for "WoW Warharf"
 17. Dialogue UI.txt
 Contains the settings for Dialogue UI, for "WoW Warharf"
 
+18. Equip Recommended Gear.txt
+Contains the settings for Equip Recommended Gear, for "WoW Warharf"
