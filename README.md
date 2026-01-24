@@ -67,3 +67,6 @@ Contains the settings for Leatrix Plus, for "WoW Warharf"
 20. Leatrix Maps.txt
 Contains the settings for Leatrix Maps, for "WoW Warharf"
 
+21. New Openables.txt
+Contains the settings for New Openables, for "WoW Warharf"
+
