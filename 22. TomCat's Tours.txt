@@ -1,0 +1,11 @@
+Minimap Button = OFF
+Map Icon Size = 33% (round and about, because no value is given)
+Map Icon Animation = OFF
+Elemental Storms = Never Shown
+Time Rifts = Never Shown
+Superbloom = Never Shown
+Radiant Echoes = Never Shown
+Theatre Troupe = Never Shown
+Twitch Promo's = Always Shown
+Prime Gaming Loot = Always Shown
+Other Blizard Promos = Always Shown
