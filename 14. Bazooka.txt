@@ -1,0 +1,617 @@
+Locked = ON
+Enable simple tooltips = ON
+Manual tooltip toggle = OFF
+Enable Highlight = ON
+Disable map icons = ON
+Show disabled plugins = OFF
+Enable opacity workaround = OFF
+Extra launchers = OFF
+Fade-out delay = 0.5
+Fade-out duration = 0.5
+Fade-in duration = 0.25
+
+====  Bar 1  ==
+Attach Point = Top
+Strata = Medium
+Hidden = OFF
+Marked = OFF
+Fade in combat - OFF
+Fade out of combat = OFF
+Disable mouse in combat = ON
+Disable mouse out of combat combat = OFF
+Disable during pet battle = ON
+Fade opacity = 40%
+Width = Full screen width (not adjustable)
+Height = 20
+Fit to content width = OFF
+Left margin = 8
+Right margin = 8
+Left spacing = 8
+Right spacing = 8
+Center spacing =16
+Icon-text spacing = 2
+Font = Emblem
+Font size = 12
+Font outline = None
+Icon size = 16
+Opacity = 60%
+Font shadow = ON
+Label color = E6E6E6
+Text color = FFD100
+Suffix color = 00D100
+
+---- Background settings ----
+Enable background = ON
+Texture type = Background
+Background texture = Blizzard tooltip
+Title background = OFF
+Background tile size = [NOT adjustable]
+Border texture = None
+Border thickness = 16
+Border inset = 4
+Background color = 000000 A100
+Border color = CC9900 A100
+Gradient = None
+Gradient color = 000000 A0
+
+---- Tweak anchor positions ----
+Left = 0
+Right = 0
+Top = 0
+Bottom = 0
+
+
+Locked = ON
+Enable simple tooltips = ON
+Manual tooltip toggle = OFF
+Enable Highlight = ON
+Disable map icons = ON
+Show disabled plugins = OFF
+Enable opacity workaround = OFF
+Extra launchers = OFF
+Fade-out delay = 0.5
+Fade-out duration = 0.5
+Fade-in duration = 0.25
+
+====  Bar 2  ==
+Attach Point = Bottom
+Strata = Medium
+Hidden = OFF
+Marked = OFF
+Fade in combat - OFF
+Fade out of combat = OFF
+Disable mouse in combat = ON
+Disable mouse out of combat combat = OFF
+Disable during pet battle = ON
+Fade opacity = 40%
+Width = Full screen width (not adjustable)
+Height = 20
+Fit to content width = OFF
+Left margin = 8
+Right margin = 8
+Left spacing = 8
+Right spacing = 8
+Center spacing =16
+Icon-text spacing = 2
+Font = Emblem
+Font size = 12
+Font outline = None
+Icon size = 16
+Opacity = 60%
+Font shadow = ON
+Label color = E6E6E6
+Text color = FFD100
+Suffix color = 00D100
+
+---- Background settings ----
+Enable background = ON
+Texture type = Background
+Background texture = Blizzard tooltip
+Title background = OFF
+Background tile size = [NOT adjustable]
+Border texture = None
+Border thickness = 16
+Border inset = 4
+Background color = 000000 A100
+Border color = CC9900 A100
+Gradient = None
+Gradient color = 000000 A0
+
+---- Tweak anchor positions ----
+Left = 0
+Right = 0
+Top = 0
+Bottom = 0
+
+
+==== Plugins ====
+
+---- Bazooka ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Left
+
+---- Hiding Bar ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Left
+
+---- Bug Sack ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Left
+
+---- Leatrix_Plus ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Left
+
+---- Leatrix_Maps ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Left
+
+---- WoW-Pro ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Left
+
+---- Nameplates ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center Left
+
+---- Notes ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center-Left
+
+---- Quest Log ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center-Left
+
+---- Dungeons ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center-Left
+
+---- IDs ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center-Left
+
+---- Raids ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center-Left
+
+---- Difficulty ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center-Left
+
+---- GPS ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center
+
+---- ALL THE THINGS ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Center-Right
+
+---- SilverDragon ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Right
+
+---- Realm ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Right
+
+---- MobInfo2 ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Right
+
+---- Quick Routes ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Right
+
+---- Gathermate ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Right
+
+---- Volume ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Right
+
+---- TomTom-Paste ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#1
+Area = Right
+
+---- Guild ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- Friends ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Toggle main window ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Language ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP - Character status ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Player status ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Inventory ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Quest Log ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Search for my items ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Sounds history ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- TRP3 - Currently ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Left
+
+---- ClassSpecs ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Center-Left
+
+---- Equipment ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Center-Left
+
+---- Durability ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Center
+
+---- Professions ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Center-Right
+
+---- Archaeology ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Center-Right
+
+---- Dejunk ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Right
+
+---- Currency ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Right
+
+---- Arkinventory_Money ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Right
+
+---- Arkinventory_Bags
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Right
+
+---- TradeSkillMaster ----
+Enabled = ON
+Show Icon = ON
+Show Text = ON
+Icon border clip = 7%
+Hide tooltip on click = ON
+Disable tooltip in combat = ON
+Shrink threshhold = 5
+Bar = Bar#2
+Area = Right
+
+
+==== Disable the following Plugins in Bazooka ====
+Arkinventory_Mounts
+Arkinventory_Pets
+Arkinventory_Tracking_Bronze
+Arkinventory_Tracking_Currency
+Arkinventory_Tracking_Item
+Arkinventory_Tracking_Reputation
+Bags
+Krowi_ExtendedVendorUI
+MountJournalEnhanced
+Reputation
+System
+TRP3 - Extended Object
+TRP3 - NPC Speech
+Total RP 3 (Total RP 3]
