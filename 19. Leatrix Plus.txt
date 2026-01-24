@@ -1,0 +1,39 @@
+Only Enable what is mentioned in this list. All other options should be disabled.
+
+====  Automation  ====
+Accept summon
+Accept resurrection (Note: Non of the options under the gear
+
+
+====  Social  ====
+Block duels
+Party from friends
+Sync from friends
+Quests from friends
+Guild
+Communities
+
+
+====  Interface  ====
+Enhance Minimap
+
+---- Enhance Minimap ----
+Hide addon buttons
+Square minimap
+Show who pinged
+Hide addon menu
+Border width = 2
+Cluster scale = 100%
+
+Show durability status
+Show train all button
+Show ready times
+Show Wowhead links
+
+
+====  System  ====
+Disable screen glow
+Max camera zoom
+Faster auto loot
+Faster movie skip
+Easy item destroy
