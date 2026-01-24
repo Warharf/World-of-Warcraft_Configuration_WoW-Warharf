@@ -1,0 +1,18 @@
+====  Toggle  ====
+Skin Button = ON
+Backdrop Button = ON
+Glow Button = ON
+Zone Unlock = ON
+Quest bar = ON
+Swap = OFF
+Strata = OFF
+Skip on Error = ON
+Show reputation = ON
+Lock Button = ON
+Session Skip = OFF
+Profession = ON
+Visible = OFF
+AutoQuest = ON
+Herald = OFF
+Hide in combat = OFF
+Skip exalted = ON
