@@ -1,3 +1,6 @@
+Note: The order is the order of the Plugins, as shown on the bars.
+
+====  General settings  ====
 Locked = ON
 Enable simple tooltips = ON
 Manual tooltip toggle = OFF
