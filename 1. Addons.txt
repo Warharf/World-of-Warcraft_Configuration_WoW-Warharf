@@ -7,11 +7,12 @@ V = Temporary install
 X = Temporary removal
 
 Install the following Add-ons
+- AllTheThings Collection History
 - All The Things
 - Achievements Back Button
 - ArkInventoryRules_Covenant
 - ArkInventoryRules_Faction
-- df_ArkInventory Rules = Manually add ", 120000" to first line of "df-ArkInventoryRules.toc"
+- df_ArkInventory Rules
 - ArkInventoryRules_Profession
 - ArkInventoryRules_Openables = Manually add ", 120000" to first line of "ArkInventoryRules_Openables.toc"
 - ArkInventoryRules_MoreRules = Manually add ", 120000" to first line of "ArkInventoryRules_MoreRules.toc"
@@ -34,14 +35,14 @@ Install the following Add-ons
 - BugGrabber
 - ButtonForge
 - BuyEmAll for The War Within = Manually add ", 120000" to first line of "BuyEmAll.toc"
-- Can I Mog It? = Manually add ", 120000" to first line of "CanIMogIt.toc"
+- Can I Mog It?
 - Chattynator
 - Chattynator x Listener Bridge
 - City Guide - Silvermoon
 - ColorPickerPlus = Manually add ", 120000" to first line of "ColorPickerPlus.toc"
 - Dejunk (Sell & Destroy Junk) = Manually add ", 120000" to first line of "Dejunk.toc"
 - Dialogue UI
-- Elephant = INCOMPATIBLE
+- Elephant
 - Equip Recommended Gear
 - ExtraQuestButton
 - InFlight Taxi Times
@@ -70,16 +71,18 @@ Install the following Add-ons
 - HandyNotes: Wrath of the Lich King (Northrend)
 - HandyNotes Skyriding Glyphs & Dragon Glyphs
 - HandyNotes: Naxxramas Frozen Runes
+- HandyNotes: WorldMapButton
 - Handynotes_Valdrakken
 - HandyNotes_AncientShrines
 - Handynotes_Jetpacks
 - HandyNotes: Ahn'Qiraj Scarab Coffers (AQ20/40)
 - HidingBar
 - Krowi's Extended Vendor UI
-- LargerMacroIconSelection = Manually add ", 120000" to first line of "LargerMacroIconSelection.toc" and "LargerMacroIconSelectionData.toc"
+- LargerMacroIconSelection
 - Leatrix Maps
 - Leatrix Plus
-- Listener = Manually add ", 120000" to first line of "Listener.toc"
+- Listener
+- Mailbox Alt Dropdown
 - Manuscripts Journal
 - Memento (Screenshots for Achievements, Raids, Dungeons, PvP & more)
 - MobInfo2
@@ -109,8 +112,7 @@ Install the following Add-ons
 - Waypoint UI
 - Where To Gather
 - World Quest Tab
-- WorldQuestTab: Modifer Hide = Manually add ", 120000" to first line of "WorldQuestTab_ModiferHide.toc"
+- WorldQuestTab: Modifer Hide
 - World Quest Tracker
 - WoW-Pro Guides
-
 
