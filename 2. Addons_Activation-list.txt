@@ -5,6 +5,7 @@ X = Temporarily Disable, until permanent selection
 ⚙ = Only Enable during first configuration
 
 ✓ AllTheThings
+✓ AllTheThings Collection History
 ✓ Achievements Back Button
 ✓ Ark Inventory [Rules] Covenant
 ✓ Ark Inventory [Rules] More Rules
@@ -45,7 +46,7 @@ X = Temporarily Disable, until permanent selection
 ✓ ColorPickerPlus
 ✓ Dejunk
 ✓ Dialogue UI
-❌ Elephant
+✓ Elephant
 ✓ Equip Recommended Gear
 ✓ ExtraQuestButton
 ✓ GatherMate2
@@ -77,6 +78,7 @@ X = Temporarily Disable, until permanent selection
 ✓ HandyNotes_AncientShrines
 ✓ HandyNotes_Jetpacks
 ✓ HandyNotes_ScarabCoffers
+✓ HandyNotes: WorldMapButton
 ✓ HidingBar
 ⚙ HidingBar Options
 ✓ InFlight
@@ -89,7 +91,9 @@ X = Temporarily Disable, until permanent selection
 ✓ Leatrix Maps
 ✓ Leatrix Plus
 ❌ Listener
+✓ Mailbox Alt Dropdown
 ✓ Manuscripts Journal
+✓ Memento
 ✓ MobInfo2 Retail
 ✓ Molinari
 ✓ Mount Journal Enhanced
@@ -132,7 +136,3 @@ X = Temporarily Disable, until permanent selection
 ✓ WoW-Pro Leveling
 ✓ WoW-Pro Profession
 ✓ WoW-Pro WorldEvents
-
-
-
-
