@@ -43,6 +43,7 @@ Install the following Add-ons
 - Dejunk (Sell & Destroy Junk) = Manually add ", 120000" to first line of "Dejunk.toc"
 - Dialogue UI
 - Elephant
+- Enhance QoL – Small Tweaks & UI Improvements for World of Warcraft
 - Equip Recommended Gear
 - ExtraQuestButton
 - InFlight Taxi Times
@@ -82,13 +83,12 @@ Install the following Add-ons
 - Leatrix Maps
 - Leatrix Plus
 - Listener
-- Mailbox Alt Dropdown
 - Manuscripts Journal
 - Memento (Screenshots for Achievements, Raids, Dungeons, PvP & more)
 - MobInfo2
 - Molinari
 - Mount Journal Enhanced
-- New Openables = Manually add ", 120000" to first line of "NOP.toc"
+- New Openables
 - NoAutoClose
 - Platynator
 - Requires Level X = Manually add ", 120000" to first line of "!RequiresLevelX.toc"
