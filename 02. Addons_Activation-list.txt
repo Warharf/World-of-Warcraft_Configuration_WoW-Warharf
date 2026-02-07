@@ -6,6 +6,7 @@ X = Temporarily Disable, until permanent selection
 
 ✓ AllTheThings
 ✓ AllTheThings Collection History
+✓ Already Known?
 ✓ Achievements Back Button
 ✓ Ark Inventory [Rules] Covenant
 ✓ Ark Inventory [Rules] More Rules
