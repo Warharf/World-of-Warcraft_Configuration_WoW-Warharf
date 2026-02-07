@@ -9,6 +9,7 @@ X = Temporary removal
 Install the following Add-ons
 - AllTheThings Collection History
 - All The Things
+- Already Known?
 - Achievements Back Button
 - ArkInventoryRules_Covenant
 - ArkInventoryRules_Faction
