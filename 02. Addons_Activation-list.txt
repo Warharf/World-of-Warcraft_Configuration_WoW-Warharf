@@ -47,6 +47,7 @@ X = Temporarily Disable, until permanent selection
 ✓ Dejunk
 ✓ Dialogue UI
 ✓ Elephant
+✓ Enhance QoL Core
 ✓ Equip Recommended Gear
 ✓ ExtraQuestButton
 ✓ GatherMate2
@@ -91,7 +92,6 @@ X = Temporarily Disable, until permanent selection
 ✓ Leatrix Maps
 ✓ Leatrix Plus
 ❌ Listener
-✓ Mailbox Alt Dropdown
 ✓ Manuscripts Journal
 ✓ Memento
 ✓ MobInfo2 Retail
@@ -136,3 +136,6 @@ X = Temporarily Disable, until permanent selection
 ✓ WoW-Pro Leveling
 ✓ WoW-Pro Profession
 ✓ WoW-Pro WorldEvents
+
+
+
